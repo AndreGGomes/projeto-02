@@ -1,2 +1,7 @@
 André era um garoto esforçado, que cursava o terceiro periodo do BTI.
 Em meio a dificuldade do curso, o menino decidiu ir atrás de um estágio no PET-CC, um programa de extensão e tutoria da UFRN.
+
+Após alguns meses a oportunidade veio, e André se inscreveu no seu estágio dos sonhos. Algumas semanas depois, o garoto foi fazer a prova de seleção. A prova então se mostrou relativamente difícil, visto que André ainda não tinha muito conhecimento na linguagem de programação C, mas mesmo assim, André conseguiu responder algumas perguntas.
+
+Dias depois, ao checar o resultado da prova, André se sentiu desapontado com sua nota, mas ficou esperançoso, visto que estava confiante em relação a sua entrevista, parte crucial da nota do exame de seleção.
+
